@@ -1,1 +1,3 @@
-notebooks/data/
+# Directories to ignore
+notebooks/output/
+notebooks/.ipynb_checkpoints/
