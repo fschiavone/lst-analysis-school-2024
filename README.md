@@ -5,3 +5,10 @@ Repository containing notebooks and other files used during the 2nd LST Analysis
 Since I do not have writing permissions in the school directory on the cluster,  I have fixed some paths to adapt them to my folder structure. The paths in the notebooks are now set up so that any output is stored in a `output/` subdirectory of the notebook folder. Notebook output is not included in the repo because of GitHub memory limitations.
 
 Slides and instructions to run the notebooks are on the school Indico: https://indico.cta-observatory.org/event/5272/
+
+## Contents
+
+* `notebooks/` contains the notebooks used in the main sessions
+* `nsb_tuning/` contains files produced during the NSB tuning session
+* `lstmcpipe/` contains files produced during the `lstmcpipe` session
+* `LST1+MAGIC/` contains notebooks and files used during the LST1+MAGIC session
