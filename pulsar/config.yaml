@@ -16,8 +16,8 @@ cphase_setting:
 
 # -------- FILE DIRECTORY -----------
 pulsar_file_dir: '/fefs/aswg/workspace/analysis-school-2024/pulsar/Notebook2/Crab/DL3_pulsar/'
-results_output_directory: '/fefs/aswg/workspace/alvaro.mas/data/LST-school-2024/spectral_results/' #Replace this with your working directory please!!
-DL4_directory: '/fefs/aswg/workspace/alvaro.mas/data/LST-school-2024/OGIP/' #Replace this with your working directory please!!
+results_output_directory: './output/spectral_results/' #Replace this with your working directory please!!
+DL4_directory: './output/OGIP/' #Replace this with your working directory please!!
 
 target:
   name: Crab
@@ -101,7 +101,7 @@ fitting:
 
 results:
    save_results: True
-   output_file: '/fefs/aswg/workspace/alvaro.mas/data/LST-school-2024/phaseogram_results/results.pdf' #Replace this with a path in your working directory
+   output_file: './output/phaseogram_results/results.pdf' #Replace this with a path in your working directory
 
 
 ###############################################################
