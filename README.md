@@ -8,8 +8,10 @@ Slides and instructions to run the notebooks are on the school Indico: https://i
 
 ## Contents
 
-* `notebooks/` contains the notebooks used in the main sessions
-* `nsb_tuning/` contains files produced during the NSB tuning session
-* `lstmcpipe/` contains files produced during the `lstmcpipe` session
-* `LST1+MAGIC/` contains notebooks and files used during the LST1+MAGIC session
-* `pulsar/` contains notebooks for the pulsar session
+The contents of the various directories are as follows:
+
+* `notebooks/` notebooks used in the main sessions
+* `nsb_tuning/` configuration files produced during the NSB tuning session
+* `lstmcpipe/` configuration files produced during the `lstmcpipe` session
+* `LST1+MAGIC/` notebooks and files for the LST1+MAGIC session
+* `pulsar/` notebooks and files for the pulsar session
